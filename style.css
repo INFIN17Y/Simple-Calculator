@@ -1,0 +1,22 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'ubuntu mono', sans-serif;
+}
+
+body{
+    background-color: #7eb6cf;
+}
+
+.custom-result{
+    padding: 20px;
+    border-radius: 5px;
+    margin-top: 20px;
+    height: 300px;
+}
+
+.custom-color{
+    background-color: rgb(165, 144, 185);
+}
+
